@@ -1,8 +1,7 @@
 title: Add Suffix to Blog Date
-description: |
-  Code
-categories:
-demo_url:
-video_url:
+description: A snippet to add a suffix to a blog date on the HubSpot CMS
+type: snippet
+categories: Blog
+demo_url: 
+video_url: 
 hubspot_url:
-
